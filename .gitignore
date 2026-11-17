@@ -1,0 +1,19 @@
+# Environnements Python
+mon_env/
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+.env.*
+
+# Fichiers système
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
